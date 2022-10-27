@@ -9,7 +9,7 @@
 </ul>
 
 <details>
-    <summary><h2style="padding-bottom:0px">How to reach me? 📬</h2></summary>
+    <summary><h2 style="padding-bottom:0px">How to reach me? 📬</h2></summary>
     <br>
     <ul>
         <li><a href="https://www.linkedin.com/in/saiyam-sandhir/"><img src="./resources/linkedin.png" height="30px" widht="30px"></a></li>
