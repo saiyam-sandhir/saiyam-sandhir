@@ -9,7 +9,7 @@
 </ul>
 
 <details>
-    <summary><h2 align="right">How to reach me? 📬</h1></summary>
+    <summary><h2 align="right" style="padding-bottom:0px">How to reach me? 📬</h2></summary>
     <br>
     <ul>
         <li><a href="https://www.linkedin.com/in/saiyam-sandhir/"><img src="./resources/linkedin.png" height="30px" widht="30px"></a></li>
@@ -20,7 +20,7 @@
 </details>
 
 <details>
-    <summary><h2>📈 GitHub Stats</h1></summary>
+    <summary><h2 style="padding-bottom:0px">📈 GitHub Stats</h2></summary>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=saiyam-sandhir&show_icons=true&theme=radical" width="48%">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiyam-sandhir&theme=radical" width="48%">
