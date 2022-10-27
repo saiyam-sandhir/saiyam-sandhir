@@ -11,12 +11,12 @@
 <details>
     <summary><h1 align="right">How to reach me? 📬</h1></summary>
     <br>
-    <a href="https://www.linkedin.com/in/saiyam-sandhir/">LinkedIn <img src="./resources/linkedin.png"></a>
+    <a href="https://www.linkedin.com/in/saiyam-sandhir/">LinkedIn <img src="./resources/linkedin.png" height="30px" widht="30px"></a>
     <br>
-    <a href="https://twitter.com/saiyam_sandhir">Twitter <img src="./resources/twitter.png"></a>
+    <a href="https://twitter.com/saiyam_sandhir">Twitter <img src="./resources/twitter.png" height="30px" widht="30px"></a>
     <br>
-    <a href="https://github.com/saiyam-sandhir">GitHub <img src="./resources/github.png"></a>
+    <a href="https://github.com/saiyam-sandhir">GitHub <img src="./resources/github.png" height="30px" widht="30px"></a>
     <br>
-    <a href="mailto:saiyamsandhir@gmail.com">E-mail <img src="./resources/email.png"></a>
+    <a href="mailto:saiyamsandhir@gmail.com">E-mail <img src="./resources/email.png" height="30px" widht="30px"></a>
 </details>
 
