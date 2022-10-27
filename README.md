@@ -19,7 +19,7 @@
     </ul>
 </details>
 
-<h1 align="center">Let's Talk Work <img src="./resources/work.webp" width="50px" height="50px"></h1>
+<h1 align="center">Let's Talk Work <img src="./resources/work.webp" width="70px" height="70px"></h1>
 
 <details>
     <summary><h2 style="padding-bottom:0px">📈 GitHub Stats</h2></summary>
