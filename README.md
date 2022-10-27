@@ -9,7 +9,7 @@
 </ul>
 
 <details>
-    <summary><h2style="padding-bottom:0px">How to reach me? 📬</h2></summary>
+    <summary><h2 style="padding-bottom:0px">How to reach me? 📬</h2></summary>
     <br>
     <ul>
         <li><a href="https://www.linkedin.com/in/saiyam-sandhir/"><img src="./resources/linkedin.png" height="30px" widht="30px"></a></li>
@@ -18,6 +18,8 @@
         <li><a href="mailto:saiyamsandhir@gmail.com"><img src="./resources/email.png" height="30px" widht="30px"></a></li>
     </ul>
 </details>
+
+<h1 align="center">Let's Talk Work <img src="./resources/work.webp" width="70px" height="70px"></h1>
 
 <details>
     <summary><h2 style="padding-bottom:0px">📈 GitHub Stats</h2></summary>
