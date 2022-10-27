@@ -20,7 +20,7 @@
 </details>
 
 <details>
-    <summary><h1>📈 GitHub Stats></h1></summary>
+    <summary><h1>📈 GitHub Stats</h1></summary>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=saiyam-sandhir&show_icons=true&theme=radical" width="48%">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiyam-sandhir&theme=radical" width="48%">
