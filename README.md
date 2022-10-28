@@ -31,7 +31,7 @@
     <br>
     <img src="./resources/git.webp" alt="git" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/github.png" alt="GitHub" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/mysql.webp" alt="MySQL" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/markdown.png" alt="Markdown" height="50px" width="50px">
     <br>
-    <img src="./resources/vscode.png" alt="VS Code" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/jupyter.png" alt="Jupyter Notebook" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/notepadpp.svg" alt="Notepad++" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/windows.png" alt="Windows" height="50px" width="50px">
+    <img src="./resources/vscode.png" alt="VS Code" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/jupyter.png" alt="Jupyter Notebook" height="50px" width="98px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/notepadpp.svg" alt="Notepad++" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/windows.png" alt="Windows" height="50px" width="50px">
 </details>
 
 <details>
