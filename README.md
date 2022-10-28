@@ -39,6 +39,6 @@
     <br>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=saiyam-sandhir&theme=highcontrast&show_icons=true&count_private=true" width="48%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiyam-sandhir&theme=radical" width="48%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiyam-sandhir&theme=highcontrast" width="48%">
     </p>
 </details>
