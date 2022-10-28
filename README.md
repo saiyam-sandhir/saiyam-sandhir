@@ -18,15 +18,21 @@
 </details>
 
 <h1 align="center">Let's Talk Work <img src="./resources/work.webp" width="70px" height="70px"></h1>
-
-<p>Content Goes here</p>
+<ul>
+    <li>📚 <font size="3">I'm currently an undergraduate</font></li>
+    <li>🏫 <font size="3">I completed my higher secondary at <a href="https://dpsguwahati.org/">Delhi Public School, Guwahati</a></font></li>
+    <li>🤔 <font size="3">To know more about my work checkout my <a href="">Resume</a></font></li>
+</ul>
 
 <details>
     <summary><h2 style="padding-bottom:0px">Languages👨‍💻 and Tools⚒</h2></summary>
     <br>
-    to be edited
+    <img src="./resources/python.png" alt="Python" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/html.png" alt="HTML5" height="50px" width="50px"><img src="./resources/css.png" alt="CSS3" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/bootstrap.png" alt="Bootstrap" height="50px" width="50px">
+    <br>
+    <img src="./resources/git.webp" alt="git" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/github.png" alt="GitHub" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/mysql.webp" alt="MySQL" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/markdown.png" alt="Markdown" height="50px" width="50px">
+    <br>
+    <img src="./resources/vscode.png" alt="VS Code" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/jupyter.png" alt="Jupyter Notebook" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/notepadpp.svg" alt="Notepad++" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/windows.png" alt="Windows" height="50px" width="50px">
 </details>
-
 
 <details>
     <summary><h2 style="padding-bottom:0px">📈 GitHub Stats</h2></summary>
