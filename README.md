@@ -1,7 +1,5 @@
 <details>
-    <summary>
         <h1 align="center"><img src="./resources/header.png"></h1>
-    </summary>
 </details>
 
 <h1 align="center">Glad to meet you!<br>Welcome to my GitHub profile <img src="./resources/wave.gif" widht="30px" height="30px"></h1>
