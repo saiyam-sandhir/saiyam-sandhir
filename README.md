@@ -27,7 +27,7 @@
 <details>
     <summary><h2 style="padding-bottom:0px">Languages👨‍💻 and Tools⚒</h2></summary>
     <br>
-    <img src="./resources/python.png" alt="Python" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/html.png" alt="HTML5" height="50px" width="50px"><img src="./resources/css.png" alt="CSS3" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/bootstrap.png" alt="Bootstrap" height="50px" width="50px">
+    <img src="./resources/python.png" alt="Python" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/html.png" alt="HTML5" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/css.png" alt="CSS3" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/bootstrap.png" alt="Bootstrap" height="50px" width="50px">
     <br>
     <img src="./resources/git.webp" alt="git" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/github.png" alt="GitHub" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/mysql.webp" alt="MySQL" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/markdown.png" alt="Markdown" height="50px" width="50px">
     <br>
