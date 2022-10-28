@@ -43,5 +43,5 @@
     </p>
 </details>
 
-<h1 align="center"><img src="./resources/hopeyoulikeit.webp" alt="I Hope you like it" height="50px" width="50px"><br>Please feel free to come back anytime🧑</h1>
+<h1 align="center"><img src="./resources/hopeyoulikeit.webp" alt="I Hope you like it" height="100px" width="133px"><br>Please feel free to come back anytime🧑</h1>
 <p align="center">For any discussion and ideas you could raise an issue in this repository</p>
