@@ -1,4 +1,8 @@
-<h1 align="center"><img src="./resources/header.png"></h1>
+<h1>
+    
+![header](https://user-images.githubusercontent.com/86138251/218232865-aa87404d-d852-4225-a716-9538e95c1165.png) 
+
+</h1>
 
 <h1 align="center">Glad to meet you!<br>Welcome to my GitHub profile <img src="./resources/wave.gif" widht="30px" height="30px"></h1>
 <ul>
@@ -17,7 +21,12 @@
     <a href="mailto:saiyamsandhir@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=&Color=white&style=for-the-badge" height="30px" widht="30px"></a>
 </details>
 
-<h1 align="center">Let's Talk Work <img src="./resources/work.webp" width="70px" height="70px"></h1>
+<h1 align="center">
+    
+Let's Talk Work <img src="https://user-images.githubusercontent.com/86138251/218233261-bd23436f-3981-43a5-876f-164e1452f0ac.gif" width="70px" height="70px">
+
+</h1>
+    
 <ul>
     <li>📚 <font size="3">I'm currently an undergraduate</font></li>
     <li>🏫 <font size="3">I completed my higher secondary at <a href="https://dpsguwahati.org/">Delhi Public School, Guwahati</a></font></li>
@@ -27,9 +36,9 @@
 <details>
     <summary><h2 style="padding-bottom:0px">Languages👨‍💻 and Tools⚒</h2></summary>
     <br>
-    <p align="center"><img src="./resources/python.png" alt="Python" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/html.png" alt="HTML5" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/css.png" alt="CSS3" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/bootstrap.png" alt="Bootstrap" height="50px" width="50px"></p>
-    <p align="center"><img src="./resources/git.webp" alt="git" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/github.png" alt="GitHub" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/mysql.webp" alt="MySQL" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/markdown.png" alt="Markdown" height="50px" width="50px"></p>
-    <p align="center"><img src="./resources/vscode.png" alt="VS Code" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/jupyter.png" alt="Jupyter Notebook" height="50px" width="98px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/notepadpp.svg" alt="Notepad++" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./resources/windows.png" alt="Windows" height="50px" width="50px"></p>
+    <p align="center"><img src="https://user-images.githubusercontent.com/86138251/218233362-d3163c93-56b4-4fae-bf5f-0dda7049b306.png" alt="Python" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/86138251/218233379-17cf8073-b5c6-40ae-810a-79382f450117.png" alt="HTML5" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/86138251/218233406-655d7705-722d-4d78-9758-493aeb3634ed.png" alt="CSS3" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/86138251/218233418-92976154-7bfc-49b2-b622-c6ab2f1d0c50.png" alt="Bootstrap" height="50px" width="50px"></p>
+    <p align="center"><img src="https://user-images.githubusercontent.com/86138251/218233493-d166e1a4-0f34-48c4-84f4-92e63ea52764.png" alt="git" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/86138251/218233506-326cb211-c919-47cc-9bbe-f9487db75a4b.png" alt="GitHub" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/86138251/218233551-5734666c-7404-40c3-92b0-012dbf5e90c8.png" alt="MySQL" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/86138251/218233564-a74f7589-513f-49e7-b77a-7bb8152a7784.png" alt="Markdown" height="50px" width="50px"></p>
+    <p align="center"><img src="https://user-images.githubusercontent.com/86138251/218233578-b5dbec00-b534-4a2d-8e1c-f6cf2a208f77.png" alt="VS Code" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/86138251/218233596-180667ff-a155-4892-a668-096937a972be.png" alt="Jupyter Notebook" height="50px" width="98px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/86138251/218233609-61c38cfb-0509-4909-a803-5b6e363f9245.svg" alt="Notepad++" height="50px" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/86138251/218233624-074c04a0-afb9-4dfa-a028-0beffc914ba6.png" alt="Windows" height="50px" width="50px"></p>
 </details>
 
 <details>
@@ -41,5 +50,5 @@
     </p>
 </details>
 
-<h1 align="center"><img src="./resources/hopeyoulikeit.webp" alt="I Hope you like it" height="150px" width="199px"><br>Please feel free to come back anytime🧑</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/86138251/218233717-f8cc4f1e-409f-4a6c-b7e5-3fe21aeed73d.gif" alt="I Hope you like it" height="150px" width="199px"><br>Please feel free to come back anytime🧑</h1>
 <p align="center">For any discussion and ideas, you can raise an issue in this repository</p>
