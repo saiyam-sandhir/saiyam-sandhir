@@ -47,4 +47,4 @@ Let's Talk Work <img src="https://user-images.githubusercontent.com/86138251/218
 </details>
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/86138251/218233717-f8cc4f1e-409f-4a6c-b7e5-3fe21aeed73d.gif" alt="I Hope you like it" height="150px" width="199px"><br>Please feel free to come back anytime🧑</h1>
-<p align="center">For any discussions and ideas or to connect with me, checkout the <a href="https://github.com/saiyam-sandhir/saiyam-jain/discussions">Discussions Tab</a> of this repository</p>
+<p align="center">For any discussions and ideas or to connect with me, checkout the <a href="https://github.com/saiyam-sandhir/saiyam-jain/discussions">Discussions Tab</a> of my profile repository</p>
