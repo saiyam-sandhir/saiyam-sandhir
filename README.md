@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/86138251/218232865-aa87404d-d852-4225-a716-9538e95c1165.png"></h1>
+<h1 align="center"><img src="https://github.com/saiyam-sandhir/saiyam-sandhir/assets/86138251/36564d4d-01dd-4db8-bd87-eb2fdfe2eedd"></h1>
 
 <h1 align="center">Glad to meet you!<br>Welcome to my GitHub profile <img src="./resources/wave.gif" widht="30px" height="30px"></h1>
 <ul>
